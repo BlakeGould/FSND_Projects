@@ -92,7 +92,7 @@ Instructions
 -----
 
 1. [DONE] Understand the Project Structure (explained above) and where important files are located.
-2. [TODO] Build and run local development following the Development Setup steps below.
+2. [DONE] Build and run local development following the Development Setup steps below.
 3. [TODO] Fill in the missing functionality in this application: this application currently pulls in fake data, and needs to now connect to a real database and talk to a real backend.
 3. [TODO] Fill out every `TODO` section throughout the codebase. We suggest going in order of the following:
 
